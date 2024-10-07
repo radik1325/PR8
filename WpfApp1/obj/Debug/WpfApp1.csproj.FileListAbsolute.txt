@@ -1,0 +1,45 @@
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\students.TEACH\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\students.TEACH\Desktop\Новая папка (2)\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\rashurov\Desktop\Новая папка\ПР8\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="180"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Content="Крутить" x:Name="DoButton" Height="30" Width="110" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="50" Click="DoButton_Click" Grid.Row="0"></Button>
+        <Button Content="Выход" x:Name="OutButton" Height="30" Width="110" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="50,100,0,0" Click="OutButton_Click" Grid.Row="0" ></Button>
+        <TextBlock HorizontalAlignment="Left" x:Name="procent" VerticalAlignment="Top" Margin="10"></TextBlock>
+        <Border Height="100" Width="100" BorderThickness="2" BorderBrush="Black" >
+            <TextBlock x:Name="first" Height="100" Width="100" Grid.Row="0"  TextAlignment="Center" FontSize="70"></TextBlock>
+            
+        </Border>
+        <Border Margin="250,0,0,0" Height="100" Width="100" BorderThickness="2" BorderBrush="Black" >
+            <TextBlock x:Name="second" Height="100" Width="100" Grid.Row="0"  TextAlignment="Center" FontSize="70"></TextBlock>
+        </Border>
+        <Border Margin="500,0,0,0" Height="100" Width="100" BorderThickness="2" BorderBrush="Black" >
+            <TextBlock x:Name="third" Height="100" Width="100" Grid.Row="0"  TextAlignment="Center" FontSize="70"></TextBlock>
+        </Border>
+
+        <TextBlock Text="Счастливая семерка" Grid.Row="1" FontSize="35" Margin="0,50,0,0" Visibility="Collapsed" x:Name="ResultText"></TextBlock>
+        <Image Source="/Resources/photo_5463306741518295300_x.jpg" Grid.Row="1"  Margin="200,50,0,0" Visibility="Collapsed" x:Name="Photo" />
+
+    </Grid>
+</Window>
